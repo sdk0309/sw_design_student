@@ -1,3 +1,7 @@
 hello my name is maengeonyeong
 안뇽 나는 맹곤영이야
+<<<<<<< HEAD
 너는 누군니?
+=======
+만나서 반가워 나도 맹곤영이야
+>>>>>>> my_branch_2
